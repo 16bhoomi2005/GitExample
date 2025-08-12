@@ -1,1 +1,2 @@
 This is the second file of gitexample1 folder
+adding content to file 2
